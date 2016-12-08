@@ -5,3 +5,5 @@ target
 bin
 .classpath
 test-output
+.idea
+*.iml
